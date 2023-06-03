@@ -4,4 +4,3 @@ window.addEventListener('load', function() {
       element.classList.add('header-logo');
     });
   });
-  
